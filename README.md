@@ -11,15 +11,15 @@
 ## Tutorial
 
 ```bash
-$ export GITHUB_USERNAME=<LuciferTheFirstt>
-$ export GIST_TOKEN=<******>
+$ export GITHUB_USERNAME=LuciferTheFirstt
+$ export GIST_TOKEN=x
 $ alias edit=<nano|vi|vim|subl>
 ```
 
 ```ShellSession
 $ mkdir -p ${GITHUB_USERNAME}/workspace
 $ cd ${GITHUB_USERNAME}/workspace
-$ pwd
+$ pwd 
 $ cd ..
 $ pwd
 ```
